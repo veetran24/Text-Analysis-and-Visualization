@@ -19,7 +19,6 @@ The bar chart visualization aims to clearly present the frequency of appearance 
 The word cloud cleverly illustrates prominent Harry Potter character names in a cup-shaped image mask that evokes Harry Potter and The Goblet of Fire book. This creative visualization emphasizes key figures and provides an insightful glimpse into the character-driven narrative across Harry Potter book series.
 ![wordcloud](https://github.com/veetran24/Text-Analysis-and-Visualization/assets/116127511/8578283f-44bc-488e-9d6d-c8f7b95a77fa)
 
-![cup_wordcloud](https://github.com/veetran24/Text-Analysis-and-Visualization/assets/116127511/d69f9dd8-f817-4d63-a202-b9f77d8e5e6e)
 
-I also tried with the text from Book 2 - Harry Potter and the Chamber of Secrets. I used an image of Dobby the Free Elf as preference for this book and it also showed the character names mostly from this sequel.
+I also tried with the text from Book 2 - Harry Potter and the Chamber of Secrets. I used an image of ![Dobby the Free Elf](https://veetran24.github.io/Text-Analysis-and-Visualization/dobby1.jpg) as preference for this book and it also showed the character names mostly appear from this sequel.
 ![dobby](https://github.com/veetran24/Text-Analysis-and-Visualization/assets/116127511/2dba07d9-3dcc-4e09-b6bb-f0a6fdb149e4)
