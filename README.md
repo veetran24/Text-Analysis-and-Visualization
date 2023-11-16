@@ -16,6 +16,7 @@ The bar chart visualization aims to clearly present the frequency of appearance 
 
 ## Word Cloud
 The word cloud cleverly illustrates prominent Harry Potter character names in a cup-shaped image mask that evokes Harry Potter and The Goblet of Fire book. This creative visualization emphasizes key figures and provides an insightful glimpse into the character-driven narrative across Harry Potter book series.
+
 ![wordcloud](https://github.com/veetran24/Text-Analysis-and-Visualization/assets/116127511/a0bbc3f8-8bb0-4f1b-b0dc-c728150af513)
 
 
