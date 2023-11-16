@@ -21,4 +21,4 @@ The word cloud cleverly illustrates prominent Harry Potter character names in a 
 
 
 I also tried with the text from Book 2 - Harry Potter and the Chamber of Secrets. I used an image of Dobby - the Free Elf as preference for this book and it also showed the character names mostly appear from this sequel.
-![dobby](https://github.com/veetran24/Text-Analysis-and-Visualization/assets/116127511/2dba07d9-3dcc-4e09-b6bb-f0a6fdb149e4)
+![dobby](https://github.com/veetran24/Text-Analysis-and-Visualization/assets/116127511/29ab9587-3896-4949-99c9-c94ce9942581)
